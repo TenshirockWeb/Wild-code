@@ -1,2 +1,2 @@
 # Wild-code
-REMOTE
+LOCAL
